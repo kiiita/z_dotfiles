@@ -1,4 +1,4 @@
-# kiiita's dotfiles @MacBookAir11
+# kiiita's dotfiles @MacBookPro13
 
 - tmux
 - oh-my-zsh
